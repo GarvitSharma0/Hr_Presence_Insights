@@ -1,28 +1,36 @@
-#HR Presence Insights Dashboard
-This Power BI dashboard offers clear visibility into employee attendance to support HR decision-making.
+# 📊 HR Presence Insights Dashboard
 
-📊 Key Metrics
-Presence %
+A **Power BI dashboard** that delivers clear visibility into employee attendance, helping HR teams make informed decisions.
 
-Work From Home (WFH) %
+---
 
-Sick Leave %
+## ✅ **Key Metrics**
 
-📈 Visuals Included
-Attendance trends over time
+- 🟢 **Presence %**
+- 🏠 **Work From Home (WFH) %**
+- 🤒 **Sick Leave %**
 
-Department-wise presence breakdown
+---
 
-Dynamic tables and filters for in-depth analysis
+## 📈 **Visuals Included**
 
-💼 Use Cases
-Monitor overall employee presence
+- 📅 **Attendance trends over time**
+- 🏢 **Department-wise presence breakdown**
+- 🔍 **Interactive tables and slicers for detailed analysis**
 
-Detect low attendance patterns early
+---
 
-Trigger reminders for employees with low presence
+## 💼 **Use Cases**
 
-Support leave and WFH policy planning
+- ✅ **Monitor employee presence effectively**
+- 🚩 **Detect low attendance patterns early**
+- 📧 **Send reminders to employees with low presence %**
+- 📝 **Support data-driven leave & WFH policy decisions**
 
-💡 Add a screenshot of your dashboard by placing it in the repo and using:
-![Dashboard Screenshot](assets/hr-presence-dashboard.png)
+---
+
+## 🖼️ **Dashboard Screenshot**
+
+
+
+
