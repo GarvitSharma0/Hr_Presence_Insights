@@ -30,7 +30,7 @@ A **Power BI dashboard** that delivers clear visibility into employee attendance
 ---
 
 ## 🖼️ **Dashboard Screenshot**
+![Dashboard Screenshot](https://raw.githubusercontent.com/GarvitSharma0/Hr_Presence_Insights/main/HR_Dashboard.png)
 
-https://github.com/GarvitSharma0/Hr_Presence_Insights/blob/main/HR_Dashboard.png
 
 
